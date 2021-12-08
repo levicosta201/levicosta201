@@ -12,8 +12,10 @@
 ### Main Works
 
 <div align="left">
-  <a href="https://github.com/levicosta01">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=levicosta201&repo=mudah-framework"/>
+  <a href="https://github.com/levicosta201/mudah-framework">
+    <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=levicosta201&repo=mudah-framework"/>
+  </a>
+  <a href="https://github.com/levicosta201/gerencianet-pix-api">
   <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=levicosta201&repo=gerencianet-pix-api"/>
   </a>
 </div> 
