@@ -1,10 +1,21 @@
 ### Hi there thi is my stats👋
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/levicosta01">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=levicosta201&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jussaraalves&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div> 
+ 
+
+### Main Works
+
+<div align="left">
+  <a href="https://github.com/levicosta01">
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=levicosta201&repo=mudah-framework"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=levicosta201&repo=gerencianet-pix-api"/>
+  </a>
 </div> 
   
 ### My Skills
