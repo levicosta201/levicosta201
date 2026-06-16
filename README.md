@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1E3A8A&height=200&section=header&text=Levi%20Costa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Founder%20%26%20CTO%20%C2%B7%20Back-end%20%26%20Mobile%20%C2%B7%20AWS&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1E3A8A&height=200&section=header&text=Levi%20Costa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Founder%2FCTO%20%C2%B7%20Back-end%20%C2%B7%20Mobile%20%C2%B7%20AWS&descAlignY=58&descSize=16" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&background=00000000&center=true&vCenter=true&width=720&lines=Software+Engineer+%C2%B7+Founder+%26+CTO;9+anos+em+back-end+%26+mobile+de+alta+escala;Fintech+%C2%B7+E-commerce+%C2%B7+SaaS+%C2%B7+Mobile;Microservices+%C2%B7+Clean+Architecture+%C2%B7+AWS)](https://git.io/typing-svg)
 
