@@ -232,10 +232,6 @@ Projetos que mantenho públicos:
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=levicosta201&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs?username=levicosta201&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img alt="snake animation" src="https://raw.githubusercontent.com/levicosta201/levicosta201/output/github-contribution-grid-snake.svg" width="100%" />
-
 </div>
 
 ---
