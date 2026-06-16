@@ -248,11 +248,7 @@ Projetos que mantenho públicos:
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/levicosta201/levicosta201/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/levicosta201/levicosta201/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/levicosta201/levicosta201/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="snake animation" src="https://raw.githubusercontent.com/levicosta201/levicosta201/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
